@@ -1,0 +1,12 @@
+.css-6qob1r,.css-1hverof{background-color:rgb(52, 48, 48);}
+.css-17nby6i,.css-1hverof{background-color:rgb(225, 255, 255);}
+.css-pkbazv,.css-17lntkn{padding-left:80px;color:#000000;font-style:italic;font-size:18px;font-weight: bold;}
+.main {background-color:#f5fffa;}
+.css-17nby6i:active, .css-17nby6i:visited, .css-17nby6i:hover,.css-1hverof:active, .css-1hverof:visited,.css-1hverof:hover {
+    /* text-decoration: none; */
+    /* font-weight: 600; */
+    background-color: rgb(200, 228, 228);
+    text-decoration:none;
+}
+.css-9s5bis{color:rgb(66, 130, 203);}
+  footer {visibility: hidden;}

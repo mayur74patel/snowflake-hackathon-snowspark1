@@ -1,0 +1,7 @@
+streamlit
+snowflake-connector-python
+plotly
+streamlit-echarts
+altair
+pandas
+htbuilder
