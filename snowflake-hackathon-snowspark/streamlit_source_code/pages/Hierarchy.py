@@ -71,7 +71,6 @@ if 'connect' not in st.session_state:
 else:
 
     if st.session_state['connect']==True:
-
         st.markdown('''<h2 style='color:#C71585;font-family: Rockwell;text-align: center;'>Role Lineage... <img src="https://cdn-icons-png.flaticon.com/128/3286/3286746.png" style='width:70px;height:50px'/></h2>''',unsafe_allow_html=True)
         query_1='''select distinct GRANTEE_NAME,NAME  from DB_TEST.SC_TEST.STG_GRANTS_TO_ROLE \
             where GRANTED_ON='ROLE' and PRIVILEGE<>'OWNERSHIP' '''
